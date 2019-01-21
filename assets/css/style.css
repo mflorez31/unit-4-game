@@ -1,0 +1,17 @@
+
+body {
+    background-image: url("../images/SWBackground.jpg");
+    color: aliceblue;
+}
+
+#startText {
+    text-align: center;
+}
+
+#button-rebels{
+    text-align: center;
+}
+
+#button-empire{
+    text-align: center;
+}
